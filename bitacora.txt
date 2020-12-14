@@ -4,13 +4,9 @@
 %% Alumno (Apellidos, Nombre): González Jiménez, Roberto            %%
 %%==================================================================%%
 
-<<<<<<< HEAD
- Paso   Acción                      					 		Notas
-====== ============================ 							================================
-=======
+
  Paso   Acción                      					 			Notas
 ====== ============================ 								================================
->>>>>>> Antecedentes
  01     clone
  02     branch DatosPersonales + checkout
  03 	-------
@@ -24,4 +20,5 @@
  11		push origin DatosPersonales
  12 															DatosPersonales: Recursiva, Antecedentes: Fast-forward
  13		add + commit
+
 
