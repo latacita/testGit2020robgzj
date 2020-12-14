@@ -5,8 +5,8 @@
 %%==================================================================%%
 
 
- Paso   Acción                      					 			Notas
-====== ============================ 								================================
+ Paso   Acción                      					 		Notas
+====== ============================ 							================================
  01     clone
  02     branch DatosPersonales + checkout
  03 	-------
@@ -20,5 +20,8 @@
  11		push origin DatosPersonales
  12 															DatosPersonales: Recursiva, Antecedentes: Fast-forward
  13		add + commit
-
+ 14		merge Antecedentes --no-ff + add + commit				Recursiva con conflictos
+ 15		merge DatosPersonales --no-ff + add + commit			Recursiva con conflictos
+ 16		add + commit
+ 
 
