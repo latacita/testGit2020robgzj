@@ -23,5 +23,7 @@
  14		merge Antecedentes --no-ff + add + commit				Recursiva con conflictos
  15		merge DatosPersonales --no-ff + add + commit			Recursiva con conflictos
  16		add + commit
- 
+ 17 	tag FusionTerminada
+ 18 	push origin master										Con Sourcetree activamos la opcion push all tags
+ 19 	add + commit + push origin (todas las ramas)
 
