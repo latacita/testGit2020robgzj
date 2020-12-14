@@ -4,10 +4,14 @@
 %% Alumno (Apellidos, Nombre): González Jiménez, Roberto            %%
 %%==================================================================%%
 
- Paso   Acción                       Notas
-====== ============================ ================================
+ Paso   Acción                      					 			Notas
+====== ============================ 								================================
  01     clone
  02     branch DatosPersonales + checkout
  03 	-------
  04	    -------
  05		add + commit
+ 06		log --oneline + checkout   									En mi caso el checkout a 5c02a0f
+ 07		branch Antecedentes + checkout
+ 08		------
+ 09		checkout DatosPersonales bitacora.txt + add + commit
